@@ -1,3 +1,3 @@
-Olá mundo, oi
+Olá, mundo!
 
 primeiro repositorio do readme
